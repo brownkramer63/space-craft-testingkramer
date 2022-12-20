@@ -1,4 +1,4 @@
-package unit.service;
+package com.cydeo.spacecraft.unit.service;
 
 import com.cydeo.spacecraft.dto.CreateGameDTO;
 import com.cydeo.spacecraft.entity.Game;
